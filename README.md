@@ -1,4 +1,6 @@
 ### Hi there 👋
+🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩
+![CatTypingGIF](https://github.com/0x-sh1ne/0x-sh1ne/assets/93641401/11bfa356-e0a4-48e6-8199-2655b368f6d9)
 
 <!--
 **0x-sh1ne/0x-sh1ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
