@@ -67,9 +67,12 @@ I'm stronger on the frontend and design side, but I love learning new things, ev
 ---
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?0x-sh1ne=madushadhanushka&theme=tokyonight" alt="mystreak"/>
-</div>
+<br></br>
 
+![](https://github-readme-stats.vercel.app/api?username=0x-sh1ne&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=0x-sh1ne&theme=tokyonight&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0x-sh1ne&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) ![](https://github-contributor-stats.vercel.app/api?username=0x-sh1ne&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
+
+</div>
 <br></br>
 <img src="./public/certifications/certificationHeader.svg" alt="Certifications" width="204" />
 
@@ -115,32 +118,40 @@ I'm stronger on the frontend and design side, but I love learning new things, ev
 
 ---
 
-<div style="display:flex; gap:8px;">
-  <div style="flex:1; aspect-ratio:1/1; overflow:hidden;">
-    <img src="./public/gallery/images/1.jpg"
-         style="width:100%; height:100%; object-fit:cover;" />
-  </div>
-
-  <div style="flex:1; aspect-ratio:1/1; overflow:hidden;">
+<table width="100%">
+  <tr>
+    <td width="20%">
+      <div style="aspect-ratio:1/1; overflow:hidden;">
+        <img src="./public/gallery/images/1.jpg"
+             style="width:100%; height:100%; object-fit:cover;" />
+      </div>
+    </td>
+    <td width="20%">
+      <div style="aspect-ratio:1/1; overflow:hidden;">
     <img src="./public/gallery/images/22.jpg"
          style="width:100%; height:100%; object-fit:cover;" />
-  </div>
-
-  <div style="flex:1; aspect-ratio:1/1; overflow:hidden;">
+      </div>
+    </td>
+    <td width="20%">
+      <div style="aspect-ratio:1/1; overflow:hidden;">
     <img src="./public/gallery/images/3.png"
          style="width:100%; height:100%; object-fit:cover;" />
-  </div>
-
-  <div style="flex:1; aspect-ratio:1/1; overflow:hidden;">
+      </div>
+    </td>
+    <td width="20%">
+      <div style="aspect-ratio:1/1; overflow:hidden;">
     <img src="./public/gallery/images/4.png"
          style="width:100%; height:100%; object-fit:cover;" />
-  </div>
-
-  <div style="flex:1; aspect-ratio:1/1; overflow:hidden;">
+      </div>
+    </td>
+    <td width="20%">
+      <div style="aspect-ratio:1/1; overflow:hidden;">
     <img src="./public/gallery/images/5.jpg"
          style="width:100%; height:100%; object-fit:cover;" />
-  </div>
-</div>
+      </div>
+    </td>
+  </tr>
+</table>
 <br></br>
 
 ---
