@@ -1,99 +1,55 @@
-#
-
 <div align="center">
   <img src="./public/Banner.gif" alt="Banner" width="100%" />
-</div>
-
-<div align="center">
-
-### 👋 Welcome to my GitHub Profile!
-
 </div>
 
 ---
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-## 🚀 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="About Me" width="30" /> ABOUT ME
 
-Hi there! I'm a passionate developer who loves building innovative solutions and contributing to open-source projects. I specialize in creating elegant, efficient, and scalable applications that solve real-world problems.
+Hey! I'm **Shaina**, a web developer exploring the blockchain space. I'm all about mixing creativity with code, whether it's frontend development, UI design, or brainstorming business ideas. Right now, I'm working on exciting projects that blend web3 with online shopping (gotta make that money, haha!), and I'm leveling up my backend and design skills along the way.
 
-When I'm not coding, you can find me exploring new technologies, contributing to the developer community, or working on exciting side projects.
+I'm stronger on the frontend and design side, but I love learning new things, even when it's challenging. When I'm not coding, you'll find me geeking out about pets, astrology, psychology, movies, or doing some arts and crafts. I believe in building things that matter and collaborating with cool people on open-source projects or startup ideas.
 
-<div align="center">
-  <a href="YOUR_RESUME_LINK_HERE">
-    <img src="https://img.shields.io/badge/📄_Download_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-  </a>
-  <a href="YOUR_CALENDLY_OR_BOOKING_LINK_HERE">
-    <img src="https://img.shields.io/badge/📅_Book_a_Call-00C853?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a Call" />
-  </a>
-</div>
+<a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/UPLOAD_RESUME-4A5FFF?style=for-the-badge&logoColor=white" alt="Upload Resume" /></a>
+<a href="YOUR_CALENDLY_LINK"><img src="https://img.shields.io/badge/BOOK_15MIN_CALL-4A5FFF?style=for-the-badge&logoColor=white" alt="Book Call" /></a>
+
+</td>
+<td width="40%" valign="top">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Connect" width="30" /> CONNECT WITH ME
+
+[![Email](https://img.shields.io/badge/MEDOLOROSHAINA@GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medoloroshaina@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/SHAINA_DOLOROSA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaina-dolorosa)
 
 <br/>
 
-### 🤝 Connect with Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tech Stack" width="30" /> TECH STACK
 
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://yourportfolio.com)
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-## 💻 Tech Stack
-
-### Languages
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-</div>
-
-### Frontend
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</div>
-
-### Backend
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
-### Tools & DevOps
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/materializecss.png" alt="Materialize" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
 
 </td>
 </tr>
@@ -101,22 +57,129 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 
 ---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Statistics" width="30" /> STATISTICS
+
 <div align="center">
 
-### 📊 GitHub Stats
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=300" alt="Status" />
+</td>
+<td align="center" width="25%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0x-sh1ne&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-sh1ne&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="170" />
+**112**  
+TOTAL  
+CONTRIBUTIONS
+
+</td>
+<td align="center" width="25%">
+
+**1**  
+CURRENT  
+STREAK
+
+</td>
+<td align="center" width="25%">
+
+**7**  
+LARGE  
+STREAK
+
+</td>
+</tr>
+</table>
+
+<img src="https://ghchart.rshah.org/4A5FFF/YOUR_GITHUB_USERNAME" alt="Contribution Graph" width="100%" />
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Diploma.png" alt="Certifications" width="30" /> CERTIFICATIONS
+
+<table width="100%">
+<tr>
+<td align="center" width="16.66%">
+<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" alt="AWS Cloud Practitioner"/><br/>
+<sub><b>July 2025</b></sub><br/>
+<sub>🔗 Credential</sub><br/>
+<sub><i>Validates AWS Cloud concepts, billing, and infrastructure.</i></sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100" height="100" alt="Azure Fundamentals"/><br/>
+<sub><b>July 2025</b></sub><br/>
+<sub>🔗 Credential</sub><br/>
+<sub><i>Covers Azure services, governance, and pricing models.</i></sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.qwiklabs.com/uBwqzxHb6u3aG47PTzc3nsEe6T%2F2hWivcC0iRKhRKbc%3D" width="100" height="100" alt="GCP Digital Leader"/><br/>
+<sub><b>July 2025</b></sub><br/>
+<sub>🔗 Credential</sub><br/>
+<sub><i>Tests GCP product knowledge, AI/ML, and business use cases.</i></sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://images.credly.com/size/340x340/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Cloud_Essentials_2B.png" width="100" height="100" alt="CompTIA Cloud+"/><br/>
+<sub><b>July 2025</b></sub><br/>
+<sub>🔗 Credential</sub><br/>
+<sub><i>Vendor-neutral cloud knowledge (Governance & adoption).</i></sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width="100" height="100" alt="OCI Foundations"/><br/>
+<sub><b>August 2025</b></sub><br/>
+<sub>🔗 Credential</sub><br/>
+<sub><i>OCI services, security, networking and pricing basics.</i></sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="100" height="100" alt="IBM Cloud Computing"/><br/>
+<sub><b>September 2025</b></sub><br/>
+<sub>🔗 Credential</sub><br/>
+<sub><i>IaaS/PaaS/SaaS, compute, storage, networking & security.</i></sub>
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Gallery" width="30" /> GALLERY
+
+<table width="100%">
+<tr>
+<td width="20%"><img src="https://via.placeholder.com/300x200/1a1a2e/4A5FFF?text=Event+1" width="100%" /></td>
+<td width="20%"><img src="https://via.placeholder.com/300x200/1a1a2e/4A5FFF?text=Event+2" width="100%" /></td>
+<td width="20%"><img src="https://via.placeholder.com/300x200/1a1a2e/4A5FFF?text=Event+3" width="100%" /></td>
+<td width="20%"><img src="https://via.placeholder.com/300x200/1a1a2e/4A5FFF?text=Event+4" width="100%" /></td>
+<td width="20%"><img src="https://via.placeholder.com/300x200/1a1a2e/4A5FFF?text=Event+5" width="100%" /></td>
+</tr>
+</table>
+
+<div align="center">
+<a href="#"><img src="https://img.shields.io/badge/HACKATHON-4A5FFF?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/SEMINAR-4A5FFF?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/CONFERENCES-4A5FFF?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/BOOTCAMPS-4A5FFF?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/MEETUPS-4A5FFF?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/WORKSHOPS-4A5FFF?style=for-the-badge" /></a>
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="Projects" width="30" /> PROJECTS AND REPOSITORIES
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_2)
 
 </div>
 
 ---
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=0x-sh1ne&color=blueviolet&style=flat-square)
 
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=4A5FFF&style=flat-square&label=PROFILE+VIEWS)
+
+**"First, solve the problem. Then, write the code."** – John Johnson
 
 </div>
 
