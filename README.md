@@ -152,6 +152,7 @@ I'm stronger on the frontend and design side, but I love learning new things, ev
     </td>
   </tr>
 </table>
+
 <br></br>
 
 ---
