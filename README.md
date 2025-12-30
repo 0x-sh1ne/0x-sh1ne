@@ -69,7 +69,10 @@ I'm stronger on the frontend and design side, but I love learning new things, ev
 <div align="center">
 <br></br>
 
-![](https://github-readme-stats.vercel.app/api?username=0x-sh1ne&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=0x-sh1ne&theme=tokyonight&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0x-sh1ne&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) ![](https://github-contributor-stats.vercel.app/api?username=0x-sh1ne&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=0x-sh1ne&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=0x-sh1ne&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0x-sh1ne&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) ![](https://github-contributor-stats.vercel.app/api?username=0x-sh1ne&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
 
 </div>
