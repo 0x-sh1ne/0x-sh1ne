@@ -12,7 +12,8 @@ Hey! I'm **Shine**, a web developer exploring the blockchain space. I'm all abou
 
 I'm stronger on the frontend and design side, but I love learning new things, even when it's challenging. When I'm not coding, you'll find me interested about pets, astrology, reading, psychology, movies, or doing some arts and crafts. I believe in building things that matter and collaborating with cool people on open-source projects or startup ideas.
 
-<a href="https://drive.google.com/file/d/1xRHTULPgX0OKu2SLabFIHim6_wR0IkEF/preview"><img src="./public/aboutMe/uploadResume.svg" alt="Upload Resume" width="145"/></a>
+<!-- <a href="https://drive.google.com/file/d/1xRHTULPgX0OKu2SLabFIHim6_wR0IkEF/preview"><img src="./public/aboutMe/uploadResume.svg" alt="Upload Resume" width="145"/></a> -->
+
 <a href="https://calendly.com/msdolorosa/githublink-1o1"><img src="./public/aboutMe/bookCall.svg" width="145" alt="Book Call" /></a>
 
 </td>
